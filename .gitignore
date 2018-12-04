@@ -123,3 +123,4 @@ open_jtalk-1.10/lib/jtd_c
 ffi/cpp/jtd_cppqt.vcproj
 ffi/cpp/moc_predefs.h
 ffi/cpp/jtd_cpp
+/build/
